@@ -9,7 +9,7 @@
 
 - 📫 Reach me at **moeedfarooq14442@gmail.com**
 
-- ⚡ Fun fact **i am not a Dropout 😃**
+- ⚡ Fun fact: **i am not a Dropout 😃**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
