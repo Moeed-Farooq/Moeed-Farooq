@@ -1,21 +1,6 @@
-<h1 id="typing-header"></h1>
-<script>
-const headerText = "Hi 👋, I'm Moeed Farooq";
-const headerElement = document.getElementById("typing-header");
-let i = 0;
+<h1 align="left">"Hi 👋, I'm Moeed Farooq"</h1>
 
-function typeWriter() {
-  if (i < headerText.length) {
-    headerElement.innerHTML += headerText.charAt(i);
-    i++;
-    setTimeout(typeWriter, 100);
-  }
-}
 
-typeWriter();
-
-</script>
-  
 - 🔭 I’m currently working on **WineLikes**
 
 - 🌱 I’m currently learning **Next.js**
