@@ -7,7 +7,7 @@
 </p>
 
 ## 🚀 About Me  
-- 🔭 Currently working on **Retire-Fit**  
+- 🔭 Currently working on **HMM & Lifeguard Mobile Apps**  
 - 🌱 Learning **Next.js**  
 - 👯 Looking to collaborate on **Custom Native Modules for React Native**  
 - 📫 Reach me at **moeedfarooq14442@gmail.com**  
