@@ -2,7 +2,7 @@
 
 <p align="center">
   <a>
-    <img src="https://readme-typing-svg.demolab.com/?lines=Mobile%20App%20Developer;4%2B%20Years%20of%20Coding%20Experience;Always%20Learning%20New%20Things;From%20Rahim%20Yar%20Khan,%20Pakistan&font=Fira%20Code&center=true&width=500&height=45&color=F8D866&vCenter=true&pause=1000&size=22" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=Mobile%20App%20Developer;5%2B%20Years%20of%20Coding%20Experience;Always%20Learning%20New%20Things;From%20Rahim%20Yar%20Khan,%20Pakistan&font=Fira%20Code&center=true&width=500&height=45&color=F8D866&vCenter=true&pause=1000&size=22" />
   </a>
 </p>
 
