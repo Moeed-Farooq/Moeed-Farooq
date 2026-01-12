@@ -4,7 +4,7 @@
 
 <!-- TYPING -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1200&center=true&vCenter=true&width=650&lines=Senior+React+%26+React+Native+Developer;Building+Scalable+Mobile+%26+Web+Apps;High+Performance+User+Focused+Solutions;Cross+Platform+Expertise" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1200&center=true&vCenter=true&width=650&lines=React+%26+React+Native+Developer;Building+Scalable+Mobile+%26+Web+Apps;High+Performance+User+Focused+Solutions;Cross+Platform+Expertise" />
 </p>
 
 ---
