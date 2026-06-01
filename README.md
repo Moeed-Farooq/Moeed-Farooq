@@ -4,7 +4,7 @@
 
 <!-- TYPING -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1200&center=true&vCenter=true&width=650&lines=React+%26+React+Native+Developer;Building+Scalable+Mobile+%26+Web+Apps;High+Performance+User+Focused+Solutions;Cross+Platform+Expertise" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1200&center=true&vCenter=true&width=650&lines=Mobile+%26+Web+Apps+Developer;Building+Scalable+Mobile+%26+Web+Apps;High+Performance+User+Focused+Solutions;Cross+Platform+Expertise" />
 </p>
 
 ---
@@ -19,7 +19,7 @@
 
 ## Professional Summary
 
-Experienced **React and React Native Developer** specializing in building **scalable mobile and web applications**. Expert in creating **user-friendly, high-performance solutions** across platforms. Currently working as a **Tech Lead**, driving architecture, performance, and delivery of modern applications.
+Experienced **Mobile & Web App** specializing in building **scalable mobile and web applications**. Expert in creating **user-friendly, high-performance solutions** across platforms. Currently working as a **Tech Lead**, driving architecture, performance, and delivery of modern applications.
 
 ---
 
